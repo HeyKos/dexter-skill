@@ -1,0 +1,12 @@
+## MAC OS
+.DS_Store
+
+## PROJECT::SPECIFIC
+
+## NodeJs
+node_modules
+npm-debug.log
+npm-debug.log*
+
+## VS Code
+.vscode/

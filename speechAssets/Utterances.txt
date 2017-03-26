@@ -1,0 +1,7 @@
+GetPokedexEntryIntent tell me about {pokemon}
+GetPokedexEntryIntent what is a {pokemon}
+GetPokedexEntryIntent look up {pokemon}
+GetPokedexEntryIntent give me information about a {pokemon}
+GetPokedexEntryIntent describe {pokemon}
+GetPokedexEntryIntent describe a {pokemon}
+GetPokedexEntryIntent give me data on {pokemon}
