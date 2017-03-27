@@ -1,9 +1,7 @@
 'use strict';
 
-var _             = require('lodash'),
-    HtmlEncode    = require('htmlencode'),
-    SsmlValidator = require("ssml-validator"),
-    Pokedex       = require('pokedex-promise-v2');
+var _       = require('lodash'),
+    Pokedex = require('pokedex-promise-v2');
 
 module.exports = (function() {
   
