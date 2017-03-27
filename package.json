@@ -15,6 +15,7 @@
   "homepage": "https://bitbucket.org/andCulture/hello-alexa#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.7",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "pokedex-promise-v2": "^3.0.3"
   }
 }
